@@ -21,4 +21,4 @@ namespace SampleWeb
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>(); 
     }
-}
+} 
